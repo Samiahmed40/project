@@ -1,0 +1,58 @@
+p {
+    color: rgb(255, 0, 0); 
+}
+
+h1{
+    color:red;
+}
+
+a {
+    color: #ff0000;
+}
+
+button {
+    color: rgba(255, 0, 0, 0.5);
+}
+
+.sdiv {
+    height: 700px;
+    background-image: url("img/alex.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.sdiv1 {
+    margin-bottom: 100px;
+    background-image: url("img/product-1.jpg");
+    width: 600px;
+    height: 350px;
+    padding: 50px 100px;
+}
+.sdiv2{
+    margin-top: 100px;
+    background-image: url("img/product-2.jpg");
+    width:600px;
+    height: 350px;
+    padding: 50px 100px;
+}
+
+.sdiv3{
+    border-top: solid 55px blue;
+    border-right: dashed 55px green;
+    border-bottom: double 55px yellow;
+    height: 55vh;
+    border-left: dotted 55px red;
+    margin-bottom: 40px;
+    background-color: black;
+}
+
+.sdiv4{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    background-color: green;
+    border-radius: 50%;
+    border: solid 20px black;
+}
